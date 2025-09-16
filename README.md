@@ -18,7 +18,8 @@
 
 * 加入微信群聊我发送测试下载地址，ios通过testflight邀请安装，android通过google play邀请测试安装，需要设备有play商店和google账号
 * ![IMG_0156](https://github.com/user-attachments/assets/b8a96c2d-6657-44b3-93ab-0fadf933a6c9)
-
+* testflight链接：苹果审核中
+* google play链接：https://play.google.com/apps/testing/com.gdzhujun.teslamatemoblie.teslamatemoblie
 
 ## ✨ 主要功能
 
